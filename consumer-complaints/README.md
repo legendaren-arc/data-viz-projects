@@ -6,7 +6,7 @@ The Consumer Financial Protection Bureau (CFPB) collects and publishes consumer 
 
 - **Tableau Public** | Dashboard creation, data visualization, KPI tracking
 - **Excel** | Data cleaning, missing value imputation, date serial conversion
-- **CFPB Dataset** | Consumer complaint data source 
+- **CFPB Dataset** | From Onyx Data
 
 
 ## Dashboard Preview
@@ -38,9 +38,9 @@ Which products generate the most consumer complaints? How effectively are compan
 
 | Attribute | Details |
 |------------|----------|
-| **Source** | CFPB Public Data (Sample for Analysis) |
-| **Sheets** | Complaints (Fact), Company, Data Dictionary |
-| **Main Analyzed Sheet** | Complaints (Fact) |
+| **Source** | Onyx - Data CFPB Public Data |
+| **Tables** | Complaints (Fact), Company, Data Dictionary |
+| **Main Analyzed Table** | Complaints (Fact) |
 | **Rows** | 62,516 |
 | **Columns** | 19 |
 | **Duplicates** | None found |
@@ -101,15 +101,6 @@ To analyze and visualize **consumer complaint trends**, **company responsiveness
 - States like **California** and **Florida** recorded higher complaint counts, often linked to **average–poor** company performance.
 
 
-## Analytical Concepts Used
-
-- **Mode Imputation** for missing categorical data.  
-- **Date Conversion & Parsing** for time-based analysis.  
-- **Normalization Metric:** *Complaints per 1% Market Share* — for fair company comparison.  
-- **Ranking & Filtering Logic** — Top 1 Issue, Sub-Product, and Sub-Issue per Product.  
-- **Parameter Controls** — Dynamic filtering by product and year.
-
-
 ## Insights Interpretation
 
 - Rising complaint volume + slower resolution → potential **operational bottlenecks**.  
@@ -131,7 +122,6 @@ To analyze and visualize **consumer complaint trends**, **company responsiveness
 - Correlate **company reputation** with complaint patterns.  
 - Add **market share** & **financial metrics** for benchmarking.  
 - Build **geospatial heatmaps** for complaint intensity.  
-- Apply **trend forecasting models** for proactive insights.
 
 
 ## VII. Reflection
