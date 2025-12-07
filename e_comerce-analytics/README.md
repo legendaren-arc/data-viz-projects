@@ -43,7 +43,7 @@ Relationships exist between customers → products → events, forming the found
 ## IV. Data Preparation
 
 - Checked for null and dirty data; Identified the data fields to understand and achieve business objectives
-- Standarded the Inconsistent data types for date fields, especially for numerical fields such as the price, revenue, tax local and other.
+- Standarded the inconsistent data types for date fields, and numerical fields such as the price, revenue, tax local and other.
 - Derived and configured calculated fields for deeper Data Exploration.
 
 ## V. Exploratory Data Analysis (EDA)
