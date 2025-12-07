@@ -42,7 +42,7 @@ Relationships exist between customers → products → events, forming the found
 
 ## IV. Data Preparation
 
-- Checked for null and dirty values, and identified the data fields for understanding objectives
+- Checked for null and dirty data; Identified the data fields to understand and achieve business objectives
 - Standarded the Inconsistent data types for date fields and specially for numerical fields such as the price, revenue, tax local.
 - Derived and configured calculated fields for deeper Data Exploration.
 
