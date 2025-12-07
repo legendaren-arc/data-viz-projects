@@ -212,8 +212,8 @@ A consolidated analysis of sales and pricing performance across channels, custom
 
 ## Project Reflection
 
-This project provided an end-to-end analytical journey that transformed raw transactional and profile data into meaningful insights. Working across multiple tables — customers, products, and sales events — required careful data modeling, cleaning, normalization, and relationship mapping to ensure accuracy and consistency. Through visual exploration in Tableau, key business questions around customer behavior, product performance, revenue patterns, and pricing dynamics were answered with clarity and measurable context.
-Completing this project highlighted the importance of thoughtful data design, iterative analysis, and storytelling. The dashboards demonstrate how analytics can shift from simple reporting to actionable intelligence — supporting decisions around marketing, pricing, retention, and product strategy.
+This project provided an end-to-end analytical journey that transformed raw transactional and profile data into meaningful insights. Working across multiple tables such as customers, products, and sales events required careful data modeling, cleaning, normalization, and relationship mapping to ensure accuracy and consistency. Through visual exploration in Tableau, key business questions around customer behavior, product performance, revenue patterns, and pricing dynamics were answered with clarity and measurable context.
+Completing this project highlighted the importance of thoughtful data design, iterative analysis, and storytelling. The dashboards demonstrate how analytics can shift from simple reporting to actionable intelligence, supporting decisions around marketing, pricing, retention, and product strategy.
 
 ---
 ![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
