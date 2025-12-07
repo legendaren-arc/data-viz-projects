@@ -48,7 +48,7 @@ This Tableau project contains four dashboard sections:
 
 Provides a consolidated, high-level view of the company’s commercial performance for the latest reporting period. It is designed to help stakeholders quickly assess revenue health, sales volume movement, customer acquisition, and channel efficiency.
 
-![Performance Overview Snippet](./dashboard_snippets/Customer_Insights.png)
+![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
 
 ## Key Metrics
 
@@ -216,10 +216,10 @@ This project provided an end-to-end analytical journey that transformed raw tran
 Completing this project highlighted the importance of thoughtful data design, iterative analysis, and storytelling. The dashboards demonstrate how analytics can shift from simple reporting to actionable intelligence — supporting decisions around marketing, pricing, retention, and product strategy.
 
 ---
-![Performance Overview Snippet](./dashboard_snippets/Customer_Insights.png)
+![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
 
 🔗 **View the Interactive Dashboard Here:**  
  [Global Software Retail Analytics on Tableau Public](https://public.tableau.com/app/profile/daren.dale.aldea/viz/SoftwareRetailAnalytics/d1_PerformanceOverview)
 
-# ⭐ If you found this helpful, consider starring the repository!
+
 > Project Published: December 06, 2025
