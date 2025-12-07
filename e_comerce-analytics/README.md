@@ -38,13 +38,13 @@ The dataset was provided by the Onyx Data - Data repository that simulates trans
 
 ![Entity Relationship Diagram](./ER_diagram.png)
 
-Relationships exist between customers → events and products → events, forming the foundation for segmentation, retention analysis, pricing evaluation, and forecasting.
+Relationships exist between customers → products → events, forming the foundation for segmentation, retention analysis, pricing evaluation, and sales performance.
 
 ## IV. Data Preparation
 
-- Standarded the Inconsistent data types most specially for numerical fields such as the price, revenue, tax local.
-- Handled the Data quality inconsistency.
-- Derived and configured Calculated fields for the data exploration.
+- Checked for null and dirty values, and identified the data fields for understanding objectives
+- Standarded the Inconsistent data types for date fields and specially for numerical fields such as the price, revenue, tax local.
+- Derived and configured calculated fields for deeper Data Exploration.
 
 ## V. Exploratory Data Analysis (EDA)
 
