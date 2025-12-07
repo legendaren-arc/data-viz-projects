@@ -50,6 +50,7 @@ Relationships exist between customers → products → events, forming the found
 
 Initial EDA focused on identifying:
 - Revenue concentration by channel and geography
+- Customer Classification and Behaviour
 - Seasonal patterns and subscription growth behavior
 - Customer churn and retention drivers
 - Product lifecycle momentum and performance divergence
@@ -227,7 +228,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 
 ## X. Conclusion
 
-This analysis was conducted to understand why the business' sales performance. Through comprehensive exploration of customer behavior, channel efficiency, and product performance, the most significant insight revealed that the decline is driven largely by channel underperformance, particularly in the Marketplace and increasing dependency on discounts, which impacts both revenue stability and long-term margin health. Additionally, rising refund rates tied to accidental purchases and service dissatisfaction signal friction points in the purchase and product experience.
+This analysis was conducted to understand the business' commercial performance. Through comprehensive exploration of customer behavior, channel efficiency, and product performance, the most significant insight revealed that the decline is driven largely by channel underperformance, particularly in the Marketplace and increasing dependency on discounts, which impacts both revenue stability and long-term margin health. Additionally, rising refund rates tied to accidental purchases and service dissatisfaction signal friction points in the purchase and product experience.
 
 The findings provide a clear direction for the business to act: optimize high-performing channels while improving weaker acquisition paths, reduce discount reliance by improving value perception, strengthen onboarding to prevent early churn, and enhance product support to reduce dissatisfaction-related refunds. Addressing these areas will allow the organization to stabilize revenue trends, improve customer lifetime value, and support sustainable growth across global markets.
 
