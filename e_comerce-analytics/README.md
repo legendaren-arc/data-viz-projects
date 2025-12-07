@@ -2,10 +2,10 @@
 *Data Visualization & Business Insights using Tableau*
 
 
-## I. Business Context
+## I. Executive Summary
 
-This project presents a multi-page analytics dashboard designed to evaluate the sales performance of a **Global Software E-commerce Business**. The dataset consists of subscription and one-time purchase transactions across analytics, design, AI, productivity, and collaboration product categories. The goal of this analysis is to identify revenue patterns, customer behavior trends, product performance, pricing dynamics, and the impact of marketing and sales strategies across regions and channels. 
-This case study was developed using Tableau, supported by modeling, and transformation of the data fields provided within the DataDNA public dataset.
+This project focuses on analyzing the commercial performance of a global software e-commerce business. Using Tableau, the analysis explores revenue trends, customer behavior, product performance, pricing impact, refunds, and channel-level contributions across multiple regions and product lines.
+The final output is a multi-page interactive dashboard enabling stakeholders to monitor sales performance, evaluate retention behavior, identify opportunities for growth, and support data-driven strategic decision-making.
 
 ## II. Business Objectives
 
@@ -29,15 +29,31 @@ The analysis addresses core business questions:
 - Do annual plans bring higher revenue per customer than monthly plans?
 
 
-## III. Dataset Summary
+## III. Dataset Description
 
-This dataset simulates an e-commerce environment and includes the following:
+The dataset was provided by the Onyx Data - Data repository that simulates transactional behavior within a global software marketplace. It includes subscription-based and one-time purchases across multiple categories including AI tools, analytics, design, developer tools, and productivity products.
 
 **Entity Relationship Diagram**
 ![Entity Relationship Diagram](./ER_diagram.png)
 
+Relationships exist between customers → events and products → events, forming the foundation for segmentation, retention analysis, pricing evaluation, and forecasting.
 
-## IV. Dashboard Structure
+## IV. Data Preparation
+
+- Standarded the Inconsistent data types most specially for numerical fields such as the price, revenue, tax local.
+- Handled the Data quality inconsistency.
+- Derived and configured Calculated fields for the data exploration.
+
+## V. Exploratory Data Analysis (EDA)
+
+Initial EDA focused on identifying:
+- Revenue concentration by channel and geography
+- Seasonal patterns and subscription growth behavior
+- Customer churn and retention drivers
+- Product lifecycle momentum and performance divergence
+- Discount dependency and price elasticity tendencies
+
+## VI. Dashboard Structure
 
 This Tableau project contains four dashboard sections:
 
@@ -178,7 +194,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 - Localize payment options and pricing for growing markets such as Australia, Philippines, and Spain.
 
 
-## V. Key Findings Summary
+## VII. Key Findings Summary
 
 | Category | Summary |
 |----------|---------|
@@ -191,7 +207,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 
 
 
-## VI. Recommendations for the Business
+## VIII. Recommendations for the Business
 
 ✔ Strengthen onboarding and reduce first-month churn with personalized guidance  
 ✔ Shift pricing strategy to focus fewer discounts and more bundling innovation  
@@ -199,7 +215,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 ✔ Improve currency transparency and regional pricing alignment  
 ✔ Expand lifetime value initiatives such as loyalty upgrades or annual billing incentives  
 
-## VII. Recommendations and Future Analysis
+## IX. Recommendations and Future Analysis
 
 - Introduce Predictive Modeling: Forecasting demand, revenue, refund probability, and price sensitivity using machine learning would allow data-driven decision-making at scale.
 - Enhance Customer Segmentation: Additional demographic attributes (behavioral signals, spend tiers, product usage metrics) can refine customer clusters and support targeted marketing strategies.
@@ -207,17 +223,20 @@ A consolidated analysis of sales and pricing performance across channels, custom
 - Pricing Optimization: Elasticity modeling can determine ideal discount thresholds, recurring revenue effects, and sensitivity across regions and product categories.
 
 
-## VIII. Project Reflection
+## X. Conclusion
 
-This project provided an end-to-end analytical journey that transformed raw transactional and profile data into meaningful insights. Working across multiple tables such as customers, products, and sales events required careful data modeling, cleaning, normalization, and relationship mapping to ensure accuracy and consistency. Through visual exploration in Tableau, key business questions around customer behavior, product performance, revenue patterns, and pricing dynamics were answered with clarity and measurable context.
-Completing this project highlighted the importance of thoughtful data design, iterative analysis, and storytelling. The dashboards demonstrate how analytics can shift from simple reporting to actionable intelligence, supporting decisions around marketing, pricing, retention, and product strategy.
+This analysis was conducted to understand why the business' sales performance. Through comprehensive exploration of customer behavior, channel efficiency, and product performance, the most significant insight revealed that the decline is driven largely by channel underperformance, particularly in the Marketplace and increasing dependency on discounts, which impacts both revenue stability and long-term margin health. Additionally, rising refund rates tied to accidental purchases and service dissatisfaction signal friction points in the purchase and product experience.
+
+The findings provide a clear direction for the business to act: optimize high-performing channels while improving weaker acquisition paths, reduce discount reliance by improving value perception, strengthen onboarding to prevent early churn, and enhance product support to reduce dissatisfaction-related refunds. Addressing these areas will allow the organization to stabilize revenue trends, improve customer lifetime value, and support sustainable growth across global markets.
 
 ## Tools & Skills Demonstrated
 
-- **Tableau Desktop** (Data Visualization & Dashboard Design)
+- **Tableau Desktop** - Data Visualization & Dashboard Design
+- **Microsoft Excel** - Cleaning, Formatting & Exploration (Data Dictionary)
+- **ChatGPT** - AI-Assisted Insight Validation and Documentation Support
 - **Business Intelligence Storytelling**
-- **KPIs & Trend Analysis**
-- **Consumer Segmentation & Pricing Analysis**
+- **Data Storytelling & KPI Frameworks**
+- **Business Analytics & Decision Insights**
   
 ---
 ![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
