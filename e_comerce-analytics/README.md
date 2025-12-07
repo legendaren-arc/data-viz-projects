@@ -5,9 +5,14 @@
 ## I. Business Context
 
 This project presents a multi-page analytics dashboard designed to evaluate the sales performance of a **Global Software E-commerce Business**. The dataset consists of subscription and one-time purchase transactions across analytics, design, AI, productivity, and collaboration product categories. The goal of this analysis is to identify revenue patterns, customer behavior trends, product performance, pricing dynamics, and the impact of marketing and sales strategies across regions and channels. 
-This case study was developed using Tableau, supported by cleaning, modeling, and transformation of the data fields provided within the DataDNA public dataset.
+This case study was developed using Tableau, supported by modeling, and transformation of the data fields provided within the DataDNA public dataset.
 
 ## II. Business Objectives
+
+- Tracks sales and loyal-customer volumes over time.
+- Highlights revenue drivers and repeat-purchase patterns.
+- Shows how discounts and pricing influence sales performance.
+  
 
 The analysis addresses core business questions:
 
