@@ -62,7 +62,7 @@ Which products generate the most consumer complaints? How effectively are compan
 - Checked cardinality of `State` and location fields — 51 unique U.S. states and territories.
 
 
-## Entity Reltionship Diagraam
+## Entity Reltionship Diagram
 ![Entity Relationship Diagram](./cotumer_complaints_erd.png)
 
 
