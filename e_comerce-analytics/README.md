@@ -2,14 +2,6 @@
 *Data Visualization & Business Insights using Tableau*
 
 
-## Tools & Skills Demonstrated
-
-- **Tableau Desktop** (Data Visualization & Dashboard Design)
-- **Business Intelligence Storytelling**
-- **KPIs & Trend Analysis**
-- **Consumer Segmentation & Pricing Analysis**
-
-
 ## I. Business Context
 
 This project presents a multi-page analytics dashboard designed to evaluate the sales performance of a **Global Software E-commerce Business**. The dataset consists of subscription and one-time purchase transactions across analytics, design, AI, productivity, and collaboration product categories. The goal of this analysis is to identify revenue patterns, customer behavior trends, product performance, pricing dynamics, and the impact of marketing and sales strategies across regions and channels. 
@@ -181,7 +173,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 - Localize payment options and pricing for growing markets such as Australia, Philippines, and Spain.
 
 
-## Key Findings Summary
+## V. Key Findings Summary
 
 | Category | Summary |
 |----------|---------|
@@ -194,7 +186,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 
 
 
-## Recommendations for the Business
+## VI. Recommendations for the Business
 
 ✔ Strengthen onboarding and reduce first-month churn with personalized guidance  
 ✔ Shift pricing strategy to focus fewer discounts and more bundling innovation  
@@ -202,7 +194,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 ✔ Improve currency transparency and regional pricing alignment  
 ✔ Expand lifetime value initiatives such as loyalty upgrades or annual billing incentives  
 
-## Recommendations and Future Analysis
+## VII. Recommendations and Future Analysis
 
 - Introduce Predictive Modeling: Forecasting demand, revenue, refund probability, and price sensitivity using machine learning would allow data-driven decision-making at scale.
 - Enhance Customer Segmentation: Additional demographic attributes (behavioral signals, spend tiers, product usage metrics) can refine customer clusters and support targeted marketing strategies.
@@ -210,11 +202,18 @@ A consolidated analysis of sales and pricing performance across channels, custom
 - Pricing Optimization: Elasticity modeling can determine ideal discount thresholds, recurring revenue effects, and sensitivity across regions and product categories.
 
 
-## Project Reflection
+## VIII. Project Reflection
 
 This project provided an end-to-end analytical journey that transformed raw transactional and profile data into meaningful insights. Working across multiple tables such as customers, products, and sales events required careful data modeling, cleaning, normalization, and relationship mapping to ensure accuracy and consistency. Through visual exploration in Tableau, key business questions around customer behavior, product performance, revenue patterns, and pricing dynamics were answered with clarity and measurable context.
 Completing this project highlighted the importance of thoughtful data design, iterative analysis, and storytelling. The dashboards demonstrate how analytics can shift from simple reporting to actionable intelligence, supporting decisions around marketing, pricing, retention, and product strategy.
 
+## Tools & Skills Demonstrated
+
+- **Tableau Desktop** (Data Visualization & Dashboard Design)
+- **Business Intelligence Storytelling**
+- **KPIs & Trend Analysis**
+- **Consumer Segmentation & Pricing Analysis**
+  
 ---
 ![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
 
