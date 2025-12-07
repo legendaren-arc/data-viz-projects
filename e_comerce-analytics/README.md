@@ -49,7 +49,7 @@ This Tableau project contains four dashboard sections:
 Provides a consolidated, high-level view of the company’s commercial performance for the latest reporting period. It is designed to help stakeholders quickly assess revenue health, sales volume movement, customer acquisition, and channel efficiency.
 
 *Dashboard Preview*
-![Image](./dashboard_snippets/d1.Performance_Overview.png)
+![Performance Overview Snippet](./dashboard_snippets/Customer_Insights.png)
 
 ## Key Metrics
 
