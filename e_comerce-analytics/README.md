@@ -50,8 +50,8 @@ Relationships exist between customers → products → events, forming the found
 
 Initial EDA focused on identifying:
 - Revenue concentration by channel and geography
-- Customer Classification and Behaviour
-- Seasonal patterns and subscription growth behavior
+- Customer classification and behaviour
+- Subscription growth behavior
 - Customer churn and retention drivers
 - Product lifecycle momentum and performance divergence
 - Discount dependency and price elasticity tendencies
