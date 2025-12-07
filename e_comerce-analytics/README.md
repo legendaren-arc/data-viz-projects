@@ -12,10 +12,8 @@
 
 ## I. Business Context
 
-This project presents a multi-page analytics dashboard designed to evaluate the sales performance of a **Global Software E-commerce Business**. The dataset consists of subscription and one-time purchase transactions across analytics, design, AI, productivity, and collaboration product categories. The goal of this analysis is to identify revenue patterns, customer behavior trends, product performance, pricing dynamics, and the impact of marketing and sales strategies across regions and channels.
-
+This project presents a multi-page analytics dashboard designed to evaluate the sales performance of a **Global Software E-commerce Business**. The dataset consists of subscription and one-time purchase transactions across analytics, design, AI, productivity, and collaboration product categories. The goal of this analysis is to identify revenue patterns, customer behavior trends, product performance, pricing dynamics, and the impact of marketing and sales strategies across regions and channels. 
 This case study was developed using Tableau, supported by cleaning, modeling, and transformation of the data fields provided within the DataDNA public dataset.
---
 
 ## II. Business Objectives
 
@@ -33,7 +31,6 @@ The analysis addresses core business questions:
 - Where do refunds happen most (by product or channel)?
 - Do annual plans bring higher revenue per customer than monthly plans?
 
----
 
 ## III. Dataset Summary
 
@@ -42,7 +39,6 @@ This dataset simulates an e-commerce environment and includes the following:
 **Entity Relationship Diagram**
 ![Entity Relationship Diagram](./ER_diagram.png)
 
---
 
 ## IV. Dashboard Structure
 
@@ -220,7 +216,7 @@ A consolidated analysis of sales and pricing performance across channels, custom
 This project provided an end-to-end analytical journey that transformed raw transactional and profile data into meaningful insights. Working across multiple tables — customers, products, and sales events — required careful data modeling, cleaning, normalization, and relationship mapping to ensure accuracy and consistency. Through visual exploration in Tableau, key business questions around customer behavior, product performance, revenue patterns, and pricing dynamics were answered with clarity and measurable context.
 Completing this project highlighted the importance of thoughtful data design, iterative analysis, and storytelling. The dashboards demonstrate how analytics can shift from simple reporting to actionable intelligence — supporting decisions around marketing, pricing, retention, and product strategy.
 
---
+---
 🔗 **View the Interactive Dashboard Here:**  
  [Global Software Retail Analytics on Tableau Public](https://public.tableau.com/app/profile/daren.dale.aldea/viz/SoftwareRetailAnalytics/d1_PerformanceOverview)
 
