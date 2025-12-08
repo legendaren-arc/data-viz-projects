@@ -46,7 +46,7 @@ Relationships exist between customers → products → events, forming the found
 
 - Standardized date and numeric types (revenue, price, tax fields).
 - Handled nulls and duplicates; documented assumptions and limitations.
-- Created derived fields: `LoyalCustomer` flag, `CustomerLifetime`, `TimeToSecondPurchase`, `DiscountApplied`, `ProductLifecycleStage`, `RefundFlag`, `ASP` (average selling price) and the rest in-depth exploration.
+- Created calculated fields in Tableau: `LoyalCustomer` flag, `CustomerLifetime`, `TimeToSecondPurchase`, `DiscountApplied`, `ProductLifecycleStage`, `RefundFlag`, `ASP` (average selling price) and the rest of in-depth exploration.
 - Aggregations for monthly/yearly comparisons and YoY trend calculations.
 
 ## V. Exploratory Data Analysis (EDA)
