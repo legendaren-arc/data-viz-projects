@@ -31,7 +31,10 @@ The analysis addresses core business questions:
 
 ## III. Dataset Description
 
-The dataset was provided by the Onyx Data - Data repository that simulates transactional behavior within a global software marketplace. It includes subscription-based and one-time purchases across multiple categories including AI tools, analytics, design, developer tools, and productivity products.
+## III. Dataset description
+**Source:** Onyx Data — simulated transactional data representing a global software marketplace.   
+**Key entities:** `customers`, `products`, `events`.  
+*(See `./ER_diagram.png` for the Entity Relationship Diagram.)*
 
 **Entity Relationship Diagram**
 
