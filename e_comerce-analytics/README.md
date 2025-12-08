@@ -59,9 +59,14 @@ Initial EDA focused on identifying:
 
 ## VI. Dashboard Structure
 
-This Tableau project contains four dashboard sections:
+This Tableau project contains four dashboard sections
 
-## A. Performance Overview Dashboard
+1. Performance Overview
+2. Customer Insights
+3. Product Insights
+4. Sales and Pricing
+
+### A. Performance Overview Dashboard
 
 Provides a consolidated, high-level view of the company’s commercial performance for the latest reporting period. It is designed to help stakeholders quickly assess revenue health, sales volume movement, customer acquisition, and channel efficiency.
 
@@ -84,7 +89,7 @@ Provides a consolidated, high-level view of the company’s commercial performan
 - Investigate Marketplace funnel and merchant listing quality
 - Run quick-win retention campaigns for at-risk segments
 
-## B. Customer Insights Dashboard
+### B. Customer Insights Dashboard
 
 The Customer Insights Dashboard provides a comprehensive view of customer activity, behavior, and distribution for the current period. Its purpose is to help the organization understand customer retention, engagement patterns, demographic composition, channel-level performance, and geographic concentration. By visualizing churn, loyalty trends, and refund rates, this dashboard supports strategic decisions in customer experience improvement, retention programs, and targeted marketing.
 
@@ -106,7 +111,7 @@ The Customer Insights Dashboard provides a comprehensive view of customer activi
 - Trigger targeted outreach 30–40 days after first purchase
 - Localize campaigns for countries with declines (e.g., Germany, France)
 
-## C. Product Insights Dashboard
+### C. Product Insights Dashboard
 
 The Product Insights Dashboard provides a comprehensive view of product performance across sales volume, refund behavior, category contribution, customer retention drivers, and revenue generation. Its purpose is to help stakeholders identify high-performing products, understand growth patterns, monitor refund drivers, and evaluate channel effectiveness.
 
@@ -125,7 +130,7 @@ The Product Insights Dashboard provides a comprehensive view of product performa
 - Improve checkout confirmation and billing workflows
 - Prioritize UX fixes and support for products with rising dissatisfaction
 
-## D. Sales Performance Dashboard
+### D. Sales Performance Dashboard
 
 A consolidated analysis of sales and pricing performance across channels, customer types, subscription plans, and geographic markets. The objective is to monitor revenue performance trends, evaluate customer value, assess pricing effectiveness, and identify opportunities for growth and optimization. The data includes year-over-year comparisons, revenue distribution, customer loyalty metrics, and channel-level contribution insights.
 
