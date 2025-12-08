@@ -29,8 +29,6 @@ The analysis addresses core business questions:
 - Do annual plans bring higher revenue per customer than monthly plans?
 
 
-## III. Dataset Description
-
 ## III. Dataset description
 **Source:** The dataset was provided by the Onyx Data - Data repository that simulates transactional behavior within a global software marketplace. It includes subscription-based and one-time purchases across multiple categories including AI tools, analytics, design, developer tools, and productivity products.  
 **Key entities:** `customers`, `products`, `events`.  *(An Entity Relationship Diagram is provided to better understand the tables and its relationships.)*
