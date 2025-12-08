@@ -61,13 +61,13 @@ Initial EDA focused on identifying:
 
 This Tableau project contains four dashboard sections:
 
-### A. Performance Overview Dashboard
+## A. Performance Overview Dashboard
 
 Provides a consolidated, high-level view of the company’s commercial performance for the latest reporting period. It is designed to help stakeholders quickly assess revenue health, sales volume movement, customer acquisition, and channel efficiency.
 
 ![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
 
-## Key Metrics
+**Key Metrics**
 
 - Net revenue, units sold, transactions
 - New customers, active customers
@@ -75,12 +75,11 @@ Provides a consolidated, high-level view of the company’s commercial performan
 - Channel & category performance
 - Country-level performance map
 
-## Top-line Insight
+**Top-line Insight**
 
 - Month net revenue: **$1.20M** (down from $1.66M prior month). Broad decline across channels with Marketplace underperforming.
 
-  
-## Recommended Actions
+**Recommended Actions**
 
 - Investigate Marketplace funnel and merchant listing quality
 - Run quick-win retention campaigns for at-risk segments
@@ -92,17 +91,18 @@ The Customer Insights Dashboard provides a comprehensive view of customer activi
 
 ![Customer Insights Snippet](./dashboard_snippets/Customer_Insights.png)
 
-## Key Metrics
+**Key Metrics**
 
 - Active customers, customer categorization, churn rate, loyal customer %  
 - Time to second purchase (avg: **45 days**)  
 - Customer concentration by country, channel segments
 
-### Top-line Insight
+**Top-line Insight**
 
 - Loyal customers account for **~80.9%** of the active base. Time-to-repurchase offers a 30–40 day re-engagement window.
 
-## Recommended Actions
+**Recommended Actions**
+
 - Trigger targeted outreach 30–40 days after first purchase
 - Localize campaigns for countries with declines (e.g., Germany, France)
 
@@ -113,15 +113,15 @@ The Product Insights Dashboard provides a comprehensive view of product performa
 
 ![Product Insights Snippet](./dashboard_snippets/Product_Insights.png)
 
-## Key Metrics
+**Key Metrics**
 
 - Units sold, refunded units, product lifecycle stage, retention score
 - Top products among loyal customers, category momentum
 
-## Top-line Insight
+**Top-line Insight**
 - Units sold up **14.5% YoY**, but refunds rose - most common reason: accidental purchases and increased service dissatisfaction.
 
-## Recommended Actions
+**Recommended Actions**
 - Improve checkout confirmation and billing workflows
 - Prioritize UX fixes and support for products with rising dissatisfaction
 
@@ -132,18 +132,18 @@ A consolidated analysis of sales and pricing performance across channels, custom
 
 ![Sales and Pricing Snippet](./dashboard_snippets/Sale_Performance.png)
 
-## Key Metrics
+**Key Metrics**
 
 - Yearly sales trends
 - Channel contribution (Website, Partner Sales, Direct Sales)
 - Revenue by geography (mapped visualization)
 - Purchase patterns by currency and billing cycle
 
-## Top-line Insight
+**Top-line Insight**
 
 - YoY net revenue: **+18.5%**, with >85% from loyal customers. Promo dependency ≈ **33.6%**, indicating price sensitivity.
 
-## Strategic Recommendations
+**Strategic Recommendations**
 
 - Strengthen Customer Acquisition Efforts: Invest in targeted marketing campaigns focusing on underpenetrated regions with emerging growth.
 - Introduce satisfaction-based support programs and product education resources to prevent cancellations and returns.
@@ -162,8 +162,6 @@ A consolidated analysis of sales and pricing performance across channels, custom
 | Geography | Concentrated in US/UK/Canada; growth in select emerging markets. |
 | Channel | Website & direct high-performing; marketplace needs attention. |
 | Refunds | Most refunds occur early; primary causes: accidental orders, service dissatisfaction. |
-
-
 
 
 ## VIII. Recommendations for the Business
