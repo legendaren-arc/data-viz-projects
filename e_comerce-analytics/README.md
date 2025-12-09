@@ -135,7 +135,7 @@ The Product Insights Dashboard provides a comprehensive view of product performa
 A consolidated analysis of sales and pricing performance across channels, customer types, subscription plans, and geographic markets. The objective is to monitor revenue performance trends, evaluate customer value, assess pricing effectiveness, and identify opportunities for growth and optimization. The data includes year-over-year comparisons, revenue distribution, customer loyalty metrics, and channel-level contribution insights.
 
 
-![Sales and Pricing Snippet](./dashboard_snippets/Sale_Performance_page.png)
+![Sales and Pricing Snippet](./dashboard_snippets/Sales_Performance_page.png)
 
 **Key Metrics**
 
