@@ -70,7 +70,7 @@ This Tableau project contains four dashboard sections
 
 Provides a consolidated, high-level view of the company’s commercial performance for the latest reporting period. It is designed to help stakeholders quickly assess revenue health, sales volume movement, customer acquisition, and channel efficiency.
 
-![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
+![Performance Overview Snippet](./dashboard_snippets/Performance_Overview_page.png)
 
 **Key Metrics**
 
@@ -94,7 +94,7 @@ Provides a consolidated, high-level view of the company’s commercial performan
 The Customer Insights Dashboard provides a comprehensive view of customer activity, behavior, and distribution for the current period. Its purpose is to help the organization understand customer retention, engagement patterns, demographic composition, channel-level performance, and geographic concentration. By visualizing churn, loyalty trends, and refund rates, this dashboard supports strategic decisions in customer experience improvement, retention programs, and targeted marketing.
 
 
-![Customer Insights Snippet](./dashboard_snippets/Customer_Insights.png)
+![Customer Insights Snippet](./dashboard_snippets/Customer_Insights_page.png)
 
 **Key Metrics**
 
@@ -116,7 +116,7 @@ The Customer Insights Dashboard provides a comprehensive view of customer activi
 The Product Insights Dashboard provides a comprehensive view of product performance across sales volume, refund behavior, category contribution, customer retention drivers, and revenue generation. Its purpose is to help stakeholders identify high-performing products, understand growth patterns, monitor refund drivers, and evaluate channel effectiveness.
 
 
-![Product Insights Snippet](./dashboard_snippets/Product_Insights.png)
+![Product Insights Snippet](./dashboard_snippets/Product_Insights_page.png)
 
 **Key Metrics**
 
@@ -135,7 +135,7 @@ The Product Insights Dashboard provides a comprehensive view of product performa
 A consolidated analysis of sales and pricing performance across channels, customer types, subscription plans, and geographic markets. The objective is to monitor revenue performance trends, evaluate customer value, assess pricing effectiveness, and identify opportunities for growth and optimization. The data includes year-over-year comparisons, revenue distribution, customer loyalty metrics, and channel-level contribution insights.
 
 
-![Sales and Pricing Snippet](./dashboard_snippets/Sale_Performance.png)
+![Sales and Pricing Snippet](./dashboard_snippets/Sale_Performance_page.png)
 
 **Key Metrics**
 
@@ -200,7 +200,7 @@ The findings provide a clear direction for the business to act: optimize high-pe
 - **Business Analytics & Decision Insights**
   
 ---
-![Performance Overview Snippet](./dashboard_snippets/Performance_Overview.png)
+![Performance Overview Snippet](./dashboard_snippets/Performance_Overview_page.png)
 
 🔗 **View the Interactive Dashboard Here:**  
  [Global Software Retail Analytics on Tableau Public](https://public.tableau.com/app/profile/daren.dale.aldea/viz/SoftwareRetailAnalytics/d1_PerformanceOverview)
